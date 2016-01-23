@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a6" id="a6">
+	<SimpleField name="cartodb_id" type="int"></SimpleField>
+	<SimpleField name="url" type="string"></SimpleField>
+	<SimpleField name="memo" type="string"></SimpleField>
+	<SimpleField name="address" type="string"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+</Schema>
+<Folder><name>a6</name>
+  <Placemark>
+	<name>平野消防署喜連出張所</name>
+	<ExtendedData><SchemaData schemaUrl="#a6">
+		<SimpleData name="cartodb_id">1</SimpleData>
+		<SimpleData name="url"></SimpleData>
+		<SimpleData name="memo">車庫付近</SimpleData>
+		<SimpleData name="address">大阪府大阪市平野区喜連西６丁目２－５２</SimpleData>
+		<SimpleData name="lon">135.547947</SimpleData>
+		<SimpleData name="lat">34.609434</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>135.547947,34.609434</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>瓜破西中学校</name>
+	<ExtendedData><SchemaData schemaUrl="#a6">
+		<SimpleData name="cartodb_id">2</SimpleData>
+		<SimpleData name="url"></SimpleData>
+		<SimpleData name="memo">校舎</SimpleData>
+		<SimpleData name="address">大阪府大阪市平野区瓜破西２丁目１２−２２</SimpleData>
+		<SimpleData name="lon">135.545522</SimpleData>
+		<SimpleData name="lat">34.602407</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>135.545522,34.602407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>瓜破霊園</name>
+	<ExtendedData><SchemaData schemaUrl="#a6">
+		<SimpleData name="cartodb_id">3</SimpleData>
+		<SimpleData name="url"></SimpleData>
+		<SimpleData name="memo">事務所</SimpleData>
+		<SimpleData name="address">大阪府大阪市平野区瓜破東４−４−164</SimpleData>
+		<SimpleData name="lon">135.559379</SimpleData>
+		<SimpleData name="lat">34.602407</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>135.559379,34.602407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ヘリポート（瓜破霊園）</name>
+	<ExtendedData><SchemaData schemaUrl="#a6">
+		<SimpleData name="cartodb_id">4</SimpleData>
+		<SimpleData name="url">http://map.goo.ne.jp/place/27002885893/</SimpleData>
+		<SimpleData name="memo">あまり正確ではないかも</SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="lon">135.559423</SimpleData>
+		<SimpleData name="lat">34.602922</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>135.559423,34.602922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>土嚢訓練（大和川）</name>
+	<ExtendedData><SchemaData schemaUrl="#a6">
+		<SimpleData name="cartodb_id">5</SimpleData>
+		<SimpleData name="url"></SimpleData>
+		<SimpleData name="memo">あまり正確ではないかも</SimpleData>
+		<SimpleData name="address"></SimpleData>
+		<SimpleData name="lon">135.553426</SimpleData>
+		<SimpleData name="lat">34.598929</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>135.553426,34.598929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>老人ホームひだまりの家</name>
+	<ExtendedData><SchemaData schemaUrl="#a6">
+		<SimpleData name="cartodb_id">6</SimpleData>
+		<SimpleData name="url"></SimpleData>
+		<SimpleData name="memo"></SimpleData>
+		<SimpleData name="address">大阪府大阪市平野区瓜破西３丁目１１−１</SimpleData>
+		<SimpleData name="lon">135.545172</SimpleData>
+		<SimpleData name="lat">34.600246</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>135.545172,34.600246</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
