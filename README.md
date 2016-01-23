@@ -6,3 +6,8 @@ DECO大阪・平野 用レポジトリ
 
 
 ・KMLファイル置き場 
+https://github.com/sugoiDECO/DECO_HIRANO/tree/master/KML
+
+
+・DECOmaps
+http://52.68.196.129/
